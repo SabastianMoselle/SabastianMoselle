@@ -1,8 +1,8 @@
 ## Hi, I’m Sabastian Moselle!
 - I’m interested in: Data Analysis and Interpretation, Data Manipulation and Cleaning using SQL, Effective Data Visualization with Tableau, and Exploring Machine Learning and Predictive Analytics.
  
--  I have a clear understanding of SELECT queries with filtering, INNER and LEFT JOINS, aggregation, use of DATE, STRING, and NUMERIC functions, CASE statement, UNIONs,
-using derived tables, subqueries, and indexing.
+-  I have a clear understanding of intermidiate SQL including use of DATE, STRING, and NUMERIC functions, CASE statement, UNIONs,
+using derived tables, subqueries, indexing and complex query creation.
 Additionally, an understanding of using different query variations to get the same result!
 - I am currently learning PARTITION BY, Window Functions and Window Frames as well as data visualization with Tableau.
 
