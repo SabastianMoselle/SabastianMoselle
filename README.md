@@ -1,6 +1,6 @@
 ## Hi, I’m Sabastian Moselle!
 
-- I am passionate about data analysis, data visualization, and learning as much as I can.
+- I am passionate about data analysis, data visualization, and learning as much as I can about data manipulation.
 - I’m interested in working with data using RDBMS, data visualization tools, and machine learning.
 -  I have a clear understanding of intermidiate SQL including use of DATE, STRING, and NUMERIC functions, CASE statement, UNIONs,
 using derived tables, subqueries, indexing and complex query creation.
