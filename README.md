@@ -1,7 +1,7 @@
 ## Hi, I’m Sabastian Moselle!
 
 :open_hands: I am passionate about data analysis, data manipulation, data cleaning, performance optimization.
-- I’m interested in working with data using RDBMS and machine learning.
+- I’m interested in working with data using RDBMS and machine learning processes.
 -  I have a clear understanding of intermidiate SQL including use of DATE, STRING, and NUMERIC functions, CASE statement, UNIONs,
 using derived tables, subqueries, indexing, complex query creation and working with databases with over 32,000 rows of data.
 Additionally, an understanding of using different query variations to extract the same data.
