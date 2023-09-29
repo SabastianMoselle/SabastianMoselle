@@ -5,7 +5,7 @@
 -  I have a clear understanding of intermidiate SQL including use of DATE, STRING, and NUMERIC functions, CASE statement, UNIONs,
 using derived tables, subqueries, indexing, complex query creation and working with databases with over 20,000 rows of data.
 Additionally, an understanding of using different query variations to extract the same data.
-- I am currently learning PARTITION BY, Window Functions and Window Frames as well as data visualization with Tableau.
+- I am currently learning PARTITION BY, Window Functions and Window Frames.
 
 - How to reach me: Email me at sabastian_moselle0090@gmail.com or message me on my LinkedIn: https://www.linkedin.com/in/sabastian-moselle-8b5362206/
 
